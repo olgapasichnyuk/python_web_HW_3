@@ -63,11 +63,3 @@ assert d == [1, 2, 4, 5, 7, 10, 14, 20, 28, 35, 70, 140, 76079, 152158, 304316, 
 
 
 
-"""**************************************************
-Function execution without multiprocessing
-Time of execution: 0.9919500350952148
-**************************************************
-Function execution with multiprocessing
-Time of execution: 0.9260118007659912
-
-Process finished with exit code 0"""
